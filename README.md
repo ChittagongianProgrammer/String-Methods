@@ -1,5 +1,5 @@
 # String-Methods
-Here is an explanation of the code in the two Jupyter notebook files to help create a README file:
+Here is an explanation of the code in the two Jupyter notebook files:
 
 ## String Indexing.ipynb
 This notebook demonstrates string indexing in Python to access elements of a string.
